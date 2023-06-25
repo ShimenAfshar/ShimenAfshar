@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Shimen Afshar</h1>
 <h3 align="center">After gaining valuable experience in the beauty industry, I embarked on an exciting journey in the tech world, driven by a desire for fresh challenges. By enrolling in Code Your Future's 10-month part-time full-stack bootcamp, I not only honed my skills but also expanded my knowledge. Now, I am actively seeking a company that nurtures a positive work culture and provides a supportive environment for growth. With unwavering motivation, I am dedicated to continuous personal and professional development.</h3>
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.30fuPl3x9KvMB2ZYW0k7owHaEK&pid=Api&P=0&h=180"
