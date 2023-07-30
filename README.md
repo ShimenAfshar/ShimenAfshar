@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/ShimenAfshar/MyPortfolio)
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning Testing/DevOps 
 
 - 📫 How to reach me **Afsharshimen@gmail.com**
 
