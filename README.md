@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.30fuPl3x9KvMB2ZYW0k7owHaEK&pid=Api&P=0&h=180"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimenafshar&label=Profile%20views&color=0e75b6&style=flat" alt="shimenafshar" /> </p>
 
-- 🔭 I’m currently Coding at CodeWars
+- 🔭 I’m currently Coding on CodeWars
 
 - 🌱 I’m currently learning Testing/DevOps 
 
